@@ -28,6 +28,7 @@ Flight::route('/', function(){
     $res = array(
       "ok"=>true,
       "message"=>$message,
+      "pass"=> base64_encode(123456)
       );
     Flight::jsoncallback($res);
 });
