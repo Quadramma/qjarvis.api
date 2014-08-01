@@ -1,0 +1,30 @@
+{
+	"campaign":[
+		{
+			"url":"http://www.quadramma.com/backend/api/jazminapp/images/bounds.jpg",
+			"descr":"CAMPAIGN Medidas imagenes"
+		}
+	],
+	"collection":[
+		{
+			"url":"http://www.quadramma.com/backend/api/jazminapp/images/bounds.jpg",
+			"descr":"COLLECTION Medidas imagenes"
+		}
+	],
+	"lookbook":[
+		{
+			"url":"http://www.quadramma.com/backend/api/jazminapp/images/bounds.jpg",
+			"descr":"LOOKBOOK Medidas imagenes"
+		}
+	],
+	"accessories":[
+		{
+			"url":"http://www.quadramma.com/backend/api/jazminapp/images/bounds.jpg",
+			"descr":"ACCESSORIES Medidas imagenes"
+		}
+	],
+	"video":{
+		"url":"http://www.quadramma.com/backend/api/jazminapp/vid/sample.flv",
+		"desc":"VIDEO"
+	}
+}
